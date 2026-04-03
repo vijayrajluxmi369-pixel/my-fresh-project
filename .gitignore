@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build output
+dist
+.vercel
+.netlify
+
+# Environment variables
+.env
+.env.local
+
+# IDE settings
+.vscode
+.idea
